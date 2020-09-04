@@ -33,4 +33,4 @@
 ### Analysis
 * [Accuraccy](https://github.com/mapbiomas-brazil/accuraccy)
 
-> Access mapbiomas products through the websites: *[mapbiomas.org](https://mapbiomas.org)* and *[alerta.mapbiomas.org](https://alerta.mapbiomas.org)*.
+> Access mapbiomas products through the websites: *[mapbiomas.org](https://mapbiomas.org)* and *[alerta.mapbiomas.org](http://alerta.mapbiomas.org)*.
