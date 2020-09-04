@@ -1,5 +1,5 @@
 # Mapbiomas Brazil on github
-####  *[mapbiomas.org](https://mapbiomas.org)*
+#####  *[mapbiomas.org](https://mapbiomas.org)*
 
 ## Biomes
 * [Amazon](https://github.com/mapbiomas-brazil/amazon)
@@ -9,11 +9,11 @@
 * [Pampa](https://github.com/mapbiomas-brazil/pampa)
 * [Pantanal](https://github.com/mapbiomas-brazil/pantanal)
 
-## Cross Cutting themes
+## Cross Cuting themes
 * [Agriculture](https://github.com/mapbiomas-brazil/agriculture)
 * [Aquaculture](https://github.com/mapbiomas-brazil/aquaculture)
 * [Forest Plantation](https://github.com/mapbiomas-brazil/forest-plantation)
-* [Mangrove](https://github.com/mapbiomas-brazil/coastal-zone)
+* [Coastal Zone](https://github.com/mapbiomas-brazil/coastal-zone)
 * [Mining](https://github.com/mapbiomas-brazil/mining)
 * [Pasture](https://github.com/mapbiomas-brazil/pasture)
 * [Urban Infrastructure](https://github.com/mapbiomas-brazil/urban-infrastructure)
