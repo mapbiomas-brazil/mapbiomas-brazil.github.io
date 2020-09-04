@@ -13,7 +13,7 @@
 * [Agriculture](https://github.com/mapbiomas-brazil/agriculture)
 * [Aquaculture](https://github.com/mapbiomas-brazil/aquaculture)
 * [Forest Plantation](https://github.com/mapbiomas-brazil/forest-plantation)
-* [Mangrove](https://github.com/mapbiomas-brazil/costal-zone)
+* [Mangrove](https://github.com/mapbiomas-brazil/coastal-zone)
 * [Mining](https://github.com/mapbiomas-brazil/mining)
 * [Pasture](https://github.com/mapbiomas-brazil/pasture)
 * [Urban Infrastructure](https://github.com/mapbiomas-brazil/urban-infrastructure)
