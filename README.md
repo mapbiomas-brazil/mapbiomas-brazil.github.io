@@ -2,7 +2,7 @@
 
 > Here is available all the scripts used for processing collection 5 of mapbiomas.
 
-## Summary of mapbiomas code repositories. 
+## Summary of mapbiomas code repositories
 
 ### Biomes
 * [Amazon](https://github.com/mapbiomas-brazil/amazon)
