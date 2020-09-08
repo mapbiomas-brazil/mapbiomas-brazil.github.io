@@ -33,8 +33,12 @@
 ### Analysis
 * [Accuraccy](https://github.com/mapbiomas-brazil/accuraccy)
 
-## Mosaics
+### Mosaics
 * [Biomes](https://github.com/mapbiomas-brazil/mosaics/tree/master/biomes)
 * [Coastal Zone](https://github.com/mapbiomas-brazil/mosaics/tree/master/coastal-zone)
+
+### Toolkits
+* [Mapbiomas user toolkit](https://github.com/mapbiomas-brazil/user-toolkit)
+* [Mapbiomas integration toolkit](https://github.com/mapbiomas-brazil/integration-toolkit)
 
 > Access mapbiomas products through the websites: *[mapbiomas.org](https://mapbiomas.org)* and *[alerta.mapbiomas.org](http://alerta.mapbiomas.org)*.
