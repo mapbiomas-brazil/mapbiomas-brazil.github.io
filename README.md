@@ -30,3 +30,7 @@
 ## Analysis
 * [Accuraccy](https://github.com/mapbiomas-brazil/accuraccy)
 
+## Mosaics
+* [Biomes]()
+* [Coastal Zone]()
+
