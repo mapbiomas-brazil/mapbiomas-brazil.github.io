@@ -36,9 +36,12 @@
 ### Mosaics
 * [Biomes](https://github.com/mapbiomas-brazil/mosaics/tree/master/biomes)
 * [Coastal Zone](https://github.com/mapbiomas-brazil/mosaics/tree/master/coastal-zone)
+* [Mosaic Toolkit](https://github.com/mapbiomas-brazil/mosaic-toolkit)
 
 ### Toolkits
 * [Mapbiomas user toolkit](https://github.com/mapbiomas-brazil/user-toolkit)
 * [Mapbiomas integration toolkit](https://github.com/mapbiomas-brazil/integration-toolkit)
 
+### Alerts
+* [Workspace Front-end](https://github.com/mapbiomas-brazil/alertas-workspace)
 > Access mapbiomas products through the websites: *[mapbiomas.org](https://mapbiomas.org)* and *[alerta.mapbiomas.org](http://alerta.mapbiomas.org)*.
